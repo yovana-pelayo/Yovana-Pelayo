@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yovana from Portland, Oregon. I am a Fullstack Software Developer that is currently working on a Guest Book React App.
+I'm Yovana Pelayo and I am located in Portland, Oregon. I am a Fullstack Software Developer that is currently working on a Guest Book React App.
 
 - 👯 I’m looking to collaborate on mental health applications, blogging or social media applications and anything that will add to my professional experience as a Software Developer.
 - 😄 Pronouns: She/her
