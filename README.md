@@ -2,7 +2,7 @@
 
 I'm Yovana Pelayo and I am located in Portland, Oregon. I am a Fullstack Software Developer that is currently working on BrainJuice 🧠.
 
-- 👯 I’m looking to collaborate on mental health applications, blogging or social media applications and anything that will add to my professional experience as a Software Developer.
+- 👯 I’m looking to collaborate on mental health, blogging, and social media applications. Looking for experience to build my professional portfolio and assist in managing or building something I am proud of.
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love kayaking and I am a DIY queen. Catch me on Youtube looking up how to replace a Macbook keyboard with a backlight (successfully ✅) or looking up how to make bread from scratch.
+- ⚡ Fun fact: I love kayaking and I am a DIY queen. Catch me on Youtube looking up how to tutorials, and following them successfully, or looking up how to make bread from scratch.
 
